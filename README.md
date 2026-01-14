@@ -1,5 +1,54 @@
-UAL Creative Media and Production Technology Diploma Computer Science
-<img width="715" height="739" alt="Screenshot 2025-09-02 205216" src="https://github.com/user-attachments/assets/c403329f-b1dc-4043-af1c-06049d895b97" />
 
-This project is the a website that I made which was being used for my Diploma for the first year of my college course, essentially this project uses HTML, CSS to load the information but also include some interactivity with it so that It's more presentable with it.
-In this project, I chose Node.js with Express.js and EJS because they allow for a fast, minimalistic setup, making the application more efficient and easier to maintain.
+# Personal Portfolio Website (Final Major project)
+
+This portfolio website was created to showcase my journey from 2023 to 2024, highlighting the programming languages, frameworks, and software I learned and applied during this period. It reflects my growth as a developer, as I explored different areas of computer science and brought my experiences together into a single hub to display my projects and skills.
+
+## Features
+
+- CSS Animations, Keyframes, Opacity
+- Form-Handling Service
+- Dynamic Design with Boostrap
+- Implemented Server-Side Routing
+- ExpressJS & NodeJS for 
+
+
+## Homepage
+
+![App Screens](https://raw.githubusercontent.com/SaeedAAli/Portfolio-Website/main/homeportfolio-ezgif.com-video-to-gif-converter.gif)
+
+## Work Section
+
+![App Screens](https://raw.githubusercontent.com/SaeedAAli/Portfolio-Website/main/workportfolio-ezgif.com-video-to-gif-converter.gif)
+## Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/SaeedAAli/Portfolio-Website.git
+
+```
+
+Go to the project directory
+
+```bash
+cd Portfolio-Website
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the server
+
+```bash
+npm run start
+```
+
+Copy The Link below to View 
+
+```bash
+http://localhost:3000
+```
+
